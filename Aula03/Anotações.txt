@@ -1,0 +1,13 @@
+Comandos utilizados em aula:
+
+- Como criar um projeto React usando Vite:
+ yarn create vite 
+
+-Como instalar dependência do projeto:
+yarn ou npm install 
+
+-Como rodar o projeto:
+yarn dev
+
+-Para finalizar o projeto:
+Ctrl + C
