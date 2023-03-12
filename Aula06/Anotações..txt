@@ -1,0 +1,9 @@
+Props (palavra reservada) => É uma caixa que vai conter todas as propriedades que foram passadas
+para componente.
+
+Desestruturação ex:
+Const {title} = props
+
+Map é um loop / Função de repetição que tem retorno/ Utilizado para percorrer todos os elementos array.
+
+Key => Todas as vezes que utilizar uma lista, cada componente deve ter uma propriedade key (identificação única).
